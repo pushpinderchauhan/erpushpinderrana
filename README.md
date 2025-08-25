@@ -1,4 +1,4 @@
-👋 Hi there! I'm Pushpinder, a seasoned Web Developer with over 14 years of experience in crafting robust and innovative web solutions. I'm passionate about building user-friendly interfaces and scalable backend systems that drive business growth.
+👋 Hi there! I'm Pushpinder, a seasoned Web Developer with over 16 years of experience in crafting robust and innovative web solutions. I'm passionate about building user-friendly interfaces and scalable backend systems that drive business growth.
 
 💼 Currently, I work as a Technology Manager at Appnovation, where I lead a team of developers in creating cutting-edge web applications. Prior to this, I've held various roles in both startups and established companies, honing my skills across the full stack.
 
